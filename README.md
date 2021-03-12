@@ -1,4 +1,7 @@
 # projekt
+
+    Raport I                                                
+                                                
 Cel projektu: Stworzenie dwuwymiarowej gry zręcznościowej ( strzelanka ). 
 
 Technologie wykorzystane w projekcie: Język programowania Python wraz z biblioteką PyGame. 
@@ -18,3 +21,4 @@ Korzystając ze sklepu gracz będzie mógł odnowić swoje punkty zdrowia oraz u
 Gra będzie posiadała menu zawierające informacje o sterowaniu, ranking według zdobytych punktów, możliwość wyjścia z gry. 
 
 Gra będzie odtwarzała dźwięki podczas strzelania, niszczenia obiektów, poruszania się gracza. 
+
