@@ -1,5 +1,7 @@
 # projekt
 
+
+Projekt gry " Ashbringer "
     Raport I                                                
                                                 
 Cel projektu: Stworzenie dwuwymiarowej gry zręcznościowej ( strzelanka ). 
